@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Database
+*.db
+
+# Uploaded files
+uploads/
+
+# Test-generated files
+test_shapefile/
+test_shapefile.zip
+sample.kml
+test.txt
+test.txt.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
